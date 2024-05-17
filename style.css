@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+#herói, .curiosidades, .lista{
+    color: white;
+}
+
+#imagem{
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+}
+
+.titulo, #aranha{
+    color: red;
+}
